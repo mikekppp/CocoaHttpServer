@@ -1,0 +1,11 @@
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+target/*
+.DS_Store
+profile
+*.svn
+/.svn/*
